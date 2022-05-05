@@ -12,10 +12,10 @@ In der dritten Runde werden vier Rechungen mit immer einer fixen Zahl erzeugt. H
 Sind die Aufgaben richtig gelöst, bekommt man pro richtiger Antwort einen Punkt. Am Ende, in der letzten Szene, wird der Gesamtscore, der Name / der Charaktere und eine kurze Nachricht gezeigt.
 
 ### Development platform:
--Win 10, Unity Version: 2020.3.18f1, Visual Studio Version: VS 2019;
+- Win 10, Unity Version: 2020.3.18f1, Visual Studio Version: VS 2019;
 
 ### Target platform:
--Web GL
+- Web GL
 
 ### Visuals:
 ![WhatsApp Image 2022-05-05 at 10 11 14 AM](https://user-images.githubusercontent.com/100835056/166885216-c1bed38c-bae2-49c7-8ca0-f5ca8da06ca9.jpeg)
