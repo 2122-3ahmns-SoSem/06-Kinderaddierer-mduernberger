@@ -5,7 +5,7 @@ Mit diesem Kinderaddierer können Kinder das Addieren mithilfe von random erzeug
 
 In der ersten Runde werden in je vier Aufgaben, Marienkäfer mit einer zufälligen Punkteanzahl generiert. Auf den zwei Flügel des Marienkäfer stehen pro Flügelseite die vielleicht richtige Anzahl, jedoch als Zahlen geschrieben. Nun müssen die Kinder auswählen, ob dies richtig oder falsch ist. 
 
-In der nächsten Runde werden wieder vier Aufgaben jeweils zwei fixen Zahlen zufällig erzeugt. Hier muss das Kind die Punkte (diese sind nicht fix) per Drag and Drop auf den Marienkäfer ziehen. 
+In der nächsten Runde werden wieder vier Aufgaben mit jeweils zwei fixen Zahlen zufällig erzeugt. Hier muss das Kind die Punkte (diese sind nicht fix) per Drag and Drop auf den Marienkäfer ziehen. 
 
 In der dritten Runde werden vier Rechungen mit immer einer fixen Zahl erzeugt. Hier wird das Eintippen der fehlenden zwei Zahlen benötigt.
 
