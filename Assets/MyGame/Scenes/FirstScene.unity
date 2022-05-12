@@ -3903,6 +3903,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab5399ac26d1e5f4281afcccd95a4e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ipfKidsName: {fileID: 0}
+  displayKidsName: {fileID: 1186662412}
 --- !u!1 &1826216573
 GameObject:
   m_ObjectHideFlags: 0
