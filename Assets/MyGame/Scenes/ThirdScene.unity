@@ -2691,7 +2691,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1810761498}
-        m_TargetAssemblyTypeName: Manager, Assembly-CSharp
+        m_TargetAssemblyTypeName: ManagerMainScenes, Assembly-CSharp
         m_MethodName: SwitchTheScene
         m_Mode: 3
         m_Arguments:
@@ -3316,9 +3316,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1810761496}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab5399ac26d1e5f4281afcccd95a4e43, type: 3}
+  m_Script: {fileID: 11500000, guid: eb79fc073a0d06b459e4e9ed4dd890ee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  displayKidsName: {fileID: 1186662412}
 --- !u!1 &1826216573
 GameObject:
   m_ObjectHideFlags: 0

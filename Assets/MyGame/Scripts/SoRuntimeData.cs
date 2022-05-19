@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "SoRuntimeData")]
 public class SoRuntimeData : ScriptableObject
 {
-    public string nameKid;
+    public string nameKid = "";
 
     private void OnEnable()
     {
