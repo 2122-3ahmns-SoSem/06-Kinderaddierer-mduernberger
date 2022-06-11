@@ -12,6 +12,7 @@ public class ManagerMainScenes : MonoBehaviour
 
     
     public TMP_Text displayKidsName;
+    public Image userImage;
     private SoRuntimeData runtimeData;
 
 
@@ -20,6 +21,22 @@ public class ManagerMainScenes : MonoBehaviour
         runtimeData = Resources.Load<SoRuntimeData>("KinderaddiererRuntimeData");
 
         displayKidsName.text = runtimeData.nameKid;
+        SetUserImage(runtimeData.showPic);
+
+        if (runtimeData.showPic == "" || runtimeData.nameKid != "")
+        {
+            userImage.enabled = false;
+        }
+
+        
+    }  
+     
+
+    void SetUserImage(string imageName)
+    {
+        userImage.sprite = Resources.Load<Sprite>(imageName)as Sprite;
+
+
     }
 
     //Aufruf in Inspector OnClick bei Button, generisch über Parameter
